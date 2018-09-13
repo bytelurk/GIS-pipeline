@@ -12,3 +12,5 @@ http://www.skylineglobe.cn/ skyline
 https://www.arcgis.com/index.html ArcGIS官网
 
 http://desktop.arcgis.com/zh-cn/arcmap/10.3/main/get-started/arcgis-tutorials.htm ArcGIS教程
+
+https://github.com/mangalbhaskar/technotes/blob/master/smart-cities.md 智慧城市gis设计
