@@ -14,3 +14,5 @@ https://www.arcgis.com/index.html ArcGIS官网
 http://desktop.arcgis.com/zh-cn/arcmap/10.3/main/get-started/arcgis-tutorials.htm ArcGIS教程
 
 https://github.com/mangalbhaskar/technotes/blob/master/smart-cities.md 智慧城市gis设计
+
+https://study.163.com/course/courseLearn.htm?courseId=1003139002#/learn/video?lessonId=1004207806&courseId=1003139002  city engine 教程
